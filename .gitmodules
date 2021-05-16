@@ -1,0 +1,6 @@
+[submodule "ktsthaiquocanh/themes/introduction"]
+	path = ktsthaiquocanh/themes/introduction
+	url = https://github.com/victoriadrake/hugo-theme-introduction.git
+[submodule "ktsthaiquocanh/public"]
+	path = ktsthaiquocanh/public
+	url = https://github.com/thaiquocanh/thaiquocanh.github.io.git
