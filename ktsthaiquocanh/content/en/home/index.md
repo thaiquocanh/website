@@ -1,6 +1,6 @@
 ---
-title: "Hi, I'm Thai Quoc Anh"
+title: "Arch. Thai Quoc Anh"
 headless: true
 ---
 
-I'm an architect
+Arch. Studio

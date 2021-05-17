@@ -1,6 +1,6 @@
 ---
-title: "Xin chào, tôi là Thái Quốc Anh"
+title: "KTS. Thái Quốc Anh"
 headless: true
 ---
 
-Tôi là một kiến trúc sư
+Architecture Studio
