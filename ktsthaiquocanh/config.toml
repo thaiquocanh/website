@@ -87,9 +87,9 @@ DefaultContentLanguage           = "vi"                    # Default language fo
         languageCode     = "en-us"
         contentDir       = "content/en"
         weight           = 0
-        title            = "Introduction"
+        title            = "Arch. Thai Quoc Anh"
         [languages.en.params]
-            description  = "Website Description"   # Max 160 characters show in search results
+            description  = ""   # Max 160 characters show in search results
             # footerText   = ""                      # Text to override default footer text (markdown allowed)
 
     [languages.vi]
@@ -97,7 +97,7 @@ DefaultContentLanguage           = "vi"                    # Default language fo
         languageCode     = "vi"
         contentDir       = "content/vi"
         weight           = 1
-        title            = "Giới thiệu"
+        title            = "KTS. Thái Quốc Anh"
         [languages.vi.params]
-            description  = "Giới thiệu về trang"
+            description  = ""
             # footerText   = ""
